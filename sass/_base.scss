@@ -40,5 +40,6 @@ body {
     color: var(--color-grey-dark-2);
     background-image: linear-gradient(to right bottom, var(--color-pink-light), var(--color-pink-dark));
     background-size: cover;
+    background-repeat: none;
     min-height: 100vh;  
 }
