@@ -1,9 +1,26 @@
-///  SVG ICONS 
----------------
+SVG ICONS 
+---------
 icomoon.io
 
 
+flex: 1
+-------
+Item grows according to the available space.
 
 
+flex: grow shrink flex-basis  (flex: 0 0 60%)
+----------------------------
 
-// Can I Use => to check the browser supports
+
+flex-basis => describes the width of the item
+----------
+
+
+order
+-----
+Defalut order of flex items is 0.
+Item with the hightest oreder will be displayed at the end.
+
+
+Can I Use => to check the browser supports
+---------
